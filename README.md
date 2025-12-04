@@ -44,6 +44,3 @@ Este projeto foi uma imersão prática nas seguintes áreas:
 <img src="https://raw.githubusercontent.com/fgabrielmorais/LineClothing/main/LineClothing/Imagens/ct2.png" alt="Tela do catálogo de roupas LineClothing" />
 
 
------
-
-Qual é o seu próximo projeto para documentarmos?
